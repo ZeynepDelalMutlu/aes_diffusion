@@ -1,4 +1,5 @@
-Aes_Diffusion
+Aes_Diffusion Assignment
+
 What happens when we change one bit from plain text or key text while we are working on AES Encryption Algorithm?
 
 This assginment is given as a lecture assignment in 'Mathematical Cryptography' class in TOBB University, Ankara/Turkey.
