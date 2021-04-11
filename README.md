@@ -1,4 +1,4 @@
-Aes_Diffusion Assignment
+Aes_Diffusion Assignment - The Avalanche Effect
 
 What happens when we change one bit from plain text or key text while we are working on AES Encryption Algorithm?
 
