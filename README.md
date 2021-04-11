@@ -1,4 +1,4 @@
-AVALANCHE EFFECT (Aes_Diffusion Assignment)
+AVALANCHE EFFECT
 
 What happens when we change one bit from plain text or key text while we are working on AES Encryption Algorithm?
 
