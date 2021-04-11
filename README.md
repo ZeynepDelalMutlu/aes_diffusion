@@ -1,6 +1,8 @@
 AVALANCHE EFFECT
 
-What happens when we change one bit from plain text or key text while we are working on AES Encryption Algorithm?
+In an encryption algorithm, changing even one bit in the key or plaintext causes a tremendous change on the encrypted text, called avalance effect. In this project, I worked on the avalanche effect of AES Encryption Algorithm.
+
+In order not to predict anything about the original plainttext or key by looking at ciphertext, the avalance effect of that algoithm should be %50. Thus, we can not put forward an idea about the real bits of the plaintext or key. In this project, I checked the avalanche effect of AES Encryption Algorithm. I changed one bit of both the original palintext and then original key as seperated experiments and observed rate of change of the cipher text. Both experiments shows us the avalanche effect of AES Encryption Algorithm is real.
 
 This assginment is given as a lecture assignment in 'Mathematical Cryptography' class in TOBB University, Ankara/Turkey.
 
